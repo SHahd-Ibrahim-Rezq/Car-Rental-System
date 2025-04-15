@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+🌟A simple Dart-based car rental system showcasing OOP principles like encapsulation, inheritance, polymorphism, and abstraction. Features vehicle management, customer handling, and booking operations with clean, efficient code. Perfect for learning Dart and OOP concepts! 🚗✨
